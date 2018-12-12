@@ -36,7 +36,7 @@ description: 'Guides - API, Configuration, Installation, User..'
 # *Installation Guides*
 
 <div>
- <p>This is a test</p>
+ <img src=".gitbook/assets/mc_s.png" />
  </div>
 
 
