@@ -8,6 +8,8 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 ## [_**SmartScreen API Guide**_](https://gitbook.ypcloud.com/smartscreen-api-guide/)
 
+![](.gitbook/assets/ss.png/)
+
 ## [_**WebMMS API Guide**_](https://gitbook.ypcloud.com/webmms-api-guide/)
 
 ![](.gitbook/assets/webmms_s.png)
