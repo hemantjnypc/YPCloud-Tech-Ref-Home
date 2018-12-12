@@ -35,10 +35,6 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 # *Installation Guides*
 
-<div>
- <img src=".gitbook/assets/mc_s.png" />
- </div>
-
 
 
 
