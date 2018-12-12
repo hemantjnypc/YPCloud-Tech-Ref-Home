@@ -4,7 +4,9 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 # Welcome to YPCloud Technical Documentation
 
+---
 ### `API Guides`
+---
 
 ## [_**SmartScreen**_](https://gitbook.ypcloud.com/smartscreen-api-guide/)
 
@@ -23,17 +25,15 @@ description: 'Guides - API, Configuration, Installation, User..'
 ![](.gitbook/assets/mc_s.png)
 
 ---
-
 ### `Developer Guides`
-
 ---
 
+---
 ### `User Guides`
-
 ---
 
+---
 ### `Installation Guides`
-
 ---
 
 
