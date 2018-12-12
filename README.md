@@ -18,7 +18,7 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 ## [_**MoteChat API Guide**_](https://gitbook.ypcloud.com/motechat-api-guide/)_\*\*\*\*_
 
-[.gitbook/assets/mc_s.png](https://gitbook.ypcloud.com/motechat-api-guide/)
+![.gitbook/assets/mc_s.png](https://gitbook.ypcloud.com/motechat-api-guide/)
 
 
 
