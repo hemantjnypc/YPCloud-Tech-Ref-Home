@@ -5,7 +5,7 @@ description: 'Guides - API, Developer, User, Installation..'
 # YPCloud Technical Guides
 
 | ![](.gitbook/assets/gb_api_g_100x127.png) | **API Guides** |
-| :--- | :--- |
+| :---: | :--- |
 
 
 | _SmartScreen_ | _WebMMS_ | _MMS Microservices_ | _MoteChat_ |
@@ -15,10 +15,10 @@ description: 'Guides - API, Developer, User, Installation..'
 ---
 
 | ![](.gitbook/assets/gb_api_g_100x127.png) | **User Guides** |
-| :--- | :--- |
+| :---: | :--- |
 
 
-| _FlowBot-SmartScreen_ | _ChatBot-SmartScreen_
+| _FlowBot-SmartScreen_ | _ChatBot-SmartScreen_ |
 | :---: | :---: |
 | [![](.gitbook/assets/flowbot_logo_s.png)](https://gitbook.ypcloud.com/flowbot-for-smartscreen) | [![](.gitbook/assets/chatbot_logo76x77.png)](https://gitbook.ypcloud.com/chatbot-for-smartscreen) |
 
