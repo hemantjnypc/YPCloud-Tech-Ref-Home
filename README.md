@@ -2,7 +2,8 @@
 description: 'Guides - API, Configuration, Installation, User..'
 ---
 <div>
-  <img src=".gitbook/assets/gb_api_guides.png" height="127" width="100" />
+    <img src=".gitbook/assets/gb_api_guides1.png" height="127" width="100" />
+  </div>
   </div>
   
 # API Guides
