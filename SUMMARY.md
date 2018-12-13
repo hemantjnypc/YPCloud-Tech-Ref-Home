@@ -1,4 +1,4 @@
 # Table of contents
 
-* [YPCloud Technical Reference](README.md)
+* [YPCloud Technical Guides](README.md)
 
