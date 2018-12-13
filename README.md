@@ -5,10 +5,10 @@ description: 'Guides - API, Configuration, Installation, User..'
 # YPCloud Technical Documentation
 
 
-# *API Guides*
+## *API Guides*\
 
 
-## SmartScreen
+### SmartScreen\
 
 <div>
  
@@ -16,7 +16,7 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 </div>
 
-## WebMMS
+### WebMMS\
 
 <div>
  
@@ -24,7 +24,7 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 </div>
 
-## MMS Microservices
+### MMS Microservices\
 
 <div>
  
@@ -32,7 +32,7 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 </div>
 
-## MoteChat
+### MoteChat\
 
 <div>
  
@@ -40,15 +40,15 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 </div>
 
-# *Developer Guides*
+## *Developer Guides*\
 
 
 
-# *User Guides*
+## *User Guides*\
 
 
 
-# *Installation Guides*
+## *Installation Guides*
 
 
 
