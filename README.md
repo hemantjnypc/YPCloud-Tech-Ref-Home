@@ -21,7 +21,6 @@ description: 'Guides - API, Developer, User, Installation..'
 | [![](.gitbook/assets/flowbot_logo_s.png)](https://gitbook.ypcloud.com/flowbot-for-smartscreen-guide) | [![](.gitbook/assets/chatbot_logo76x77.png)](https://gitbook.ypcloud.com/chatbot-for-smartscreen-guide) |
 
 ## Developer Guides
-## Developer Guides
 
 ## User Guides
 
