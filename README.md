@@ -2,7 +2,7 @@
 description: 'Guides - API, Configuration, Installation, User..'
 ---
 
-# Welcome to YPCloud Technical Documentation
+# YPCloud Technical Documentation
 
 
 # *API Guides*
