@@ -35,7 +35,11 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 # *Installation Guides*
 
+<div>
+ 
+ <a href="https://www.ypcloud.com" target="_blank"><img src=".gitbook/assets/mc_s.png" height="200" width="400" /></a>
 
+</div>
 
 
  
