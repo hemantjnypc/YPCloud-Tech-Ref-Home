@@ -4,14 +4,16 @@ description: 'Guides - API, Configuration, Installation, User..'
 <div>
     <img src=".gitbook/assets/gb_api_guides1.png" height="127" width="100" />
   </div>
+ 
+  
+## API Guides
+
+### _SmartScreen_
+
+  
+ <div>
+    <img src=".gitbook/assets/ss_api_g.png" height="76" width="60" />
   </div>
-  
-# API Guides
-
-## _SmartScreen_
-
-  
- [![](.gitbook/assets/ss.png)](https://gitbook.ypcloud.com/smartscreen-api-guide)  
 
 
 ## _WebMMS_
