@@ -2,11 +2,10 @@
 description: 'Guides - API, Configuration, Installation, User..'
 ---
 <div>
-  <img src=".gitbook/assets/gb_api_guides.png" height="175" width="137" />
+  <img src=".gitbook/assets/gb_api_guides.png" height="127" width="100" />
   </div>
   
-# [![](.gitbook/assets/gb_api_guides.png)](https://gitbook.ypcloud.com/smartscreen-api-guide)  
-API Guides
+# API Guides
 
 ## _SmartScreen_
 
