@@ -8,22 +8,37 @@ description: 'Guides - API, Configuration, Installation, User..'
 # *API Guides*
 
 
-## [_**SmartScreen**_](https://gitbook.ypcloud.com/smartscreen-api-guide/)
+## SmartScreen
 
-![](.gitbook/assets/ss.png/)
+<div>
+ 
+ <a href="https://gitbook.ypcloud.com/smartscreen-api-guide" target="_blank"><img src=".gitbook/assets/ss.png" /></a>
 
-## [_**WebMMS**_](https://gitbook.ypcloud.com/webmms-api-guide/)
+</div>
 
-![](.gitbook/assets/webmms_s.png)
+## WebMMS
 
-##[_**MMS Microservices**_](https://gitbook.ypcloud.com/mms-microservices-api-guide/)
+<div>
+ 
+ <a href="https://gitbook.ypcloud.com/smartscreen-api-guide" target="_blank"><img src=".gitbook/assets/webmms_s.png" /></a>
 
-![](.gitbook/assets/mms_s.png)
+</div>
 
-## [_**MoteChat**_](https://gitbook.ypcloud.com/motechat-api-guide/)
+## MMS Microservices
 
-![](.gitbook/assets/mc_s.png)
+<div>
+ 
+ <a href="https://gitbook.ypcloud.com/smartscreen-api-guide" target="_blank"><img src=".gitbook/assets/mms_s.png" /></a>
 
+</div>
+
+## MoteChat
+
+<div>
+ 
+ <a href="https://gitbook.ypcloud.com/smartscreen-api-guide" target="_blank"><img src=".gitbook/assets/mc_s.png" /></a>
+
+</div>
 
 # *Developer Guides*
 
@@ -35,11 +50,7 @@ description: 'Guides - API, Configuration, Installation, User..'
 
 # *Installation Guides*
 
-<div>
- 
- <a href="https://www.ypcloud.com" target="_blank"><img src=".gitbook/assets/mc_s.png" height="200" width="400" /></a>
 
-</div>
 
 
  
