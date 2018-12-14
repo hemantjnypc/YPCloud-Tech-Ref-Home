@@ -20,7 +20,7 @@ description: 'Guides - API, Developer, User, Installation..'
 
 | _FlowBot-SmartScreen_ | _ChatBot-SmartScreen_ |
 | :---: | :---: |
-| [![](.gitbook/assets/fb_ss_usr_man60x82.png)](https://gitbook.ypcloud.com/flowbot-for-smartscreen) | [![](.gitbook/assets/cb_ss_usr_man60x82.png)](https://gitbook.ypcloud.com/chatbot-for-smartscreen) |
+| [![](.gitbook/assets/fb_ss_usr_man75x83.png)](https://gitbook.ypcloud.com/flowbot-for-smartscreen) | [![](.gitbook/assets/cb_ss_usr_man75x84.png)](https://gitbook.ypcloud.com/chatbot-for-smartscreen) |
 
 ## Developer Guides
 
