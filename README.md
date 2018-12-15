@@ -3,7 +3,7 @@ description: 'Guides - API, Developer, User, Installation..'
 ---
 # YPCloud Technical Guides
 
-| ![](.gitbook/assets/gb_api_g128x164.png) | **API Guides** |
+| ![](.gitbook/assets/gb_api_g128x164.png) | ## API Guides |
 | ---: | :--- |
 
 
