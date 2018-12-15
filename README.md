@@ -10,7 +10,7 @@ description: 'Guides - API, Developer, User, Installation..'
 
 | _SmartScreen_ | _WebMMS_ | _MMS Microservices_ | _MoteChat_ |
 | :---: | :---: | :---: | :---: |
-| [![](.gitbook/assets/ss_api_g78x87p.png)](https://gitbook.ypcloud.com/smartscreen-api-guide) | [![](.gitbook/assets/webmms_api_g75x84.png)](https://gitbook.ypcloud.com/webmms-api-guide) | [![](.gitbook/assets/mms_api_g75x84.png)](https://gitbook.ypcloud.com/mms-microservices-api-guide) | [![](.gitbook/assets/mc_api_g75x83.png)](https://gitbook.ypcloud.com/motechat-api-guide) |
+| [![](.gitbook/assets/ss_api_g73x88o.png)](https://gitbook.ypcloud.com/smartscreen-api-guide) | [![](.gitbook/assets/webmms_api_g75x84.png)](https://gitbook.ypcloud.com/webmms-api-guide) | [![](.gitbook/assets/mms_api_g75x84.png)](https://gitbook.ypcloud.com/mms-microservices-api-guide) | [![](.gitbook/assets/mc_api_g75x83.png)](https://gitbook.ypcloud.com/motechat-api-guide) |
 
  
 
