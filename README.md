@@ -13,7 +13,7 @@ description: 'Guides - API, Developer, User, Installation..'
 
  
 
-| ![](.gitbook/assets/gb_user_man_128x163.png) | **User Guides** |
+| ![](.gitbook/assets/gb_user_man_128x163.png) | <div><h2>User Guides</h2></div> |
 | ---: | :--- |
 
 
